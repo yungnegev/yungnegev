@@ -1,5 +1,5 @@
 
-$ neofetch
+    $ neofetch
 
                    -`                     bruno@metaphoric.dev
                   .o+`                    --------------------
