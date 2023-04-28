@@ -1,16 +1,21 @@
-### Hi there 👋
+$ neofetch
 
-<!--
-**yungnegev/yungnegev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                   -`                     
+                  .o+`                    --------------------
+                 `ooo/                    Uptime: 25 years
+                `+oooo:                   Kernel: WEB-DEV
+               `+oooooo:                  Shell: fish
+               -+oooooo+:                 WM: bspwm
+             `/:-:++oooo+:
+            `/++++/+++++++:               user info
+           `/++++++++++++++:              ---------
+          `/+++ooooooooooooo/`            Email: arthur.zimuldinov@gmail.com
+         ./ooosssso++osssssso+`           Website: zimuldinov.com
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.         
+      :osssssss/        osssso+++.        
+     /ossssssss/        +ssssooo/-        
+   `/ossssso+/:-        -:/+osssso+-      
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/    ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇
+ .`                                 `     
