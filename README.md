@@ -1,4 +1,4 @@
-```diff
+```py
     $ neofetch
 
                        -`                     yungnegev@monad
