@@ -1,4 +1,4 @@
-```java
+```swift
 $ neofetch
 
                    -`                     yungnegev@monad
