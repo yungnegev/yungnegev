@@ -1,4 +1,4 @@
-```py
+```js
     $ neofetch
 
                        -`                     yungnegev@monad
