@@ -1,4 +1,4 @@
-```smalltalk
+```s
     $ neofetch
 
                        -`                     yungnegev@monad
