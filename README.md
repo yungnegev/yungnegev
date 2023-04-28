@@ -1,4 +1,4 @@
-```profile
+```less
     $ neofetch
 
                        -`                     yungnegev@monad
