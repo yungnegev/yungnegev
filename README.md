@@ -1,4 +1,4 @@
-```zsh
+```h
     $ neofetch
 
                        -`                     yungnegev@monad
