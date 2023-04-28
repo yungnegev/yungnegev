@@ -1,4 +1,4 @@
-```s
+```coffee
     $ neofetch
 
                        -`                     yungnegev@monad
