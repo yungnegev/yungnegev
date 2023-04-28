@@ -1,4 +1,4 @@
-```brainfuck
+```vim
     $ neofetch
 
                        -`                     yungnegev@monad
@@ -14,8 +14,8 @@
              ./ooosssso++osssssso+`           Website: zimuldinov.com
             .oossssso-````/ossssss+`
            -osssssso.      :ssssssso.         
-          :osssssss/        osssso+++.        
-         /ossssssss/        +ssssooo/-        
+          :osssssss/        osssso+++.          
+         /ossssssss/        +ssssooo/-         
        `/ossssso+/:-        -:/+osssso+-      
       `+sso+:-`                 `.-/+oso:
      `++:.                           `-/+/    ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇
