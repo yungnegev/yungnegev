@@ -1,4 +1,4 @@
-```less
+```csharp
     $ neofetch
 
                        -`                     yungnegev@monad
