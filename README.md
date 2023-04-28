@@ -1,11 +1,11 @@
-```r
+```rust
     $ neofetch
 
                        -`                     yungnegev@monad
                       .o+`                    --------------------
-                     `ooo/                    Uptime: 26 years
+                     `ooo/                    Uptime: 26 
                     `+oooo:                   Kernel: WEB-DEV
-                   `+oooooo:                  Shell: zsh
+                   `+oooooo:                  Shell: fish
                    -+oooooo+:                 WM: bspwm
                  `/:-:++oooo+:
                 `/++++/+++++++:               user info
