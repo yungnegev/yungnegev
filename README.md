@@ -1,4 +1,4 @@
-```rust
+```brainfuck
     $ neofetch
 
                        -`                     yungnegev@monad
