@@ -1,4 +1,4 @@
-```elixir
+```profile
     $ neofetch
 
                        -`                     yungnegev@monad
