@@ -1,4 +1,3 @@
-$ neofetch
 
                    -`                     bruno@metaphoric.dev
                   .o+`                    --------------------
