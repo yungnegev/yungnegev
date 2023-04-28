@@ -1,4 +1,4 @@
-```swift
+```brainfuck
 $ neofetch
 
                    -`                     yungnegev@monad
